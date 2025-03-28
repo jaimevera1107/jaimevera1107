@@ -19,7 +19,7 @@ I enjoy developing tools that bridge theoretical soundness with real-world appli
 
 ## 🛠️ Projects
 
-### 📦 [tempdisagg](https://github.com/jaimeandresvera/tempdisagg)
+### 📦 [tempdisagg](https://github.com/jaimevera1107/tempdisagg)
 > A modular, Pythonic library for temporal disaggregation of time series. Inspired by R’s *tempdisagg* package and extended with advanced features, such as:
 - Ensemble model support  
 - Padding-aware adjustments  

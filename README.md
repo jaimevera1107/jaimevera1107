@@ -42,7 +42,7 @@ I enjoy developing tools that bridge theoretical soundness with real-world appli
 - 🎓 Pursuing a **Master’s in Artificial Intelligence** @ *Universidad de los Andes*  
 - 📊 Working as a **Data Consultant** at *SENA’s Labor Observatory*  
 - 🧪 Developing & documenting open-source projects  
-- ☕ Fueling ideas with coffee=
+- ☕ Fueling ideas with coffee
 
 ---
 
@@ -51,7 +51,7 @@ I enjoy developing tools that bridge theoretical soundness with real-world appli
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaimeverajaramillo/)  
 - 📖 [Google Scholar](https://scholar.google.com/citations?hl=es&user=jGhB804AAAAJ)  
 - 🤗 [Hugging Face](https://huggingface.co/jaimevera1107)  
-- 📧 jaimevera1107@gmail.com 
+- 📧 Personal e-mail: jaimevera1107@gmail.com 
 
 ---
 

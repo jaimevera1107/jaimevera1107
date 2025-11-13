@@ -2,7 +2,7 @@
 
 ## Profile
 
-Data scientist focused on time series analysis, machine learning and the development of modular, well-structured tools in Python. I work with strict adherence to best practices, reproducibility and PEP8 standards. My interests center on building solutions that combine statistical rigor with practical applicability, especially in economic and labor market contexts.
+Data scientist focused on time series analysis, machine learning and the development of modular, well-structured tools in Python. My interests center on building solutions that combine statistical rigor with practical applicability, especially in economic and labor market contexts.
 
 I am currently developing **tempdisagg**, a Python library for temporal disaggregation and high-frequency reconstruction of macroeconomic time series.
 

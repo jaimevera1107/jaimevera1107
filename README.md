@@ -10,16 +10,6 @@ I work with data, mainly in Python. I'm interested in **statistics, time series,
 
 ---
 
-### 🔧 A project I'm working on
-
-**[tempdisagg](https://github.com/jaimevera1107/tempdisagg)**
-
-A Python library for temporal disaggregation and high-frequency reconstruction of time series.
-
-It's an ongoing open-source project that I develop and maintain in my spare time.
-
----
-
 ### 🌿 A little more about me
 
 Outside of work, I enjoy birdwatching, reading, collecting technology, collecting anime figures, and playing strategy and simulation games.

@@ -37,4 +37,4 @@ Also, an unapologetic **Quaxly enthusiast**. 🦆
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/jaimeverajaramillo/) · [Google Scholar](https://scholar.google.com/citations?user=jGhB804AAAAJ) · [Hugging Face](https://huggingface.co/jaimevera1107) · [Email](mailto:jaimevera1107@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jaimeverajaramillo/) · [Google Scholar](https://scholar.google.com/citations?user=jGhB804AAAAJ) · [GitHub](https://github.com/jaimevera1107) · [PyPI](https://pypi.org/user/jaimevera1107/) · [Hugging Face](https://huggingface.co/jaimevera1107) · [Email](mailto:jaimevera1107@gmail.com)

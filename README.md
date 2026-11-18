@@ -26,8 +26,8 @@ time series, and labor economics** — mostly in Python, mostly open source.
 
 ### 🌿 Outside of work
 
-Birdwatcher · reader · strategy & simulation gamer · Quaxly Fan
-recovering technology hoarder.
+Birdwatcher and lover · Reader (fiction) · Strategy & simulation gamer · Quaxly Fan · Cat's Lover
+
 
 ---
 

@@ -1,39 +1,40 @@
 # Jaime A. Vera-Jaramillo
 
-**Data Scientist · Economist · Open-source developer**  
+**Economist · Data Scientist · Open-Source Developer**  
 Bogotá, Colombia · [@jaimevera1107](https://github.com/jaimevera1107)
 
-I build tools and research pipelines at the intersection of **statistics,
-time series, and labor economics** — mostly in Python, mostly open source.
+I work at the intersection of **economics, statistics, and artificial intelligence**, developing open-source tools for scientific computing, time-series analysis, and data-driven research.
 
-- 🎓 MSc in Artificial Intelligence and Economics — **Universidad de los Andes**
-- 💼 Data Scientist at the **Labor and Employment Observatory, SENA**  
-  (subnational labor market indicators · NLP · occupational analysis)
-- 📦 Maintainer of several Python libraries for statistical and data-quality work
+My interests revolve around making complex analytical methods more **accessible, reproducible, and reliable** — from statistical software development to large-scale data processing and labor market research.
+
+### About me
+
+- 🎓 **MSc in Artificial Intelligence** · Economist — Universidad de los Andes
+- 💼 **Data Scientist** at SENA's Labor and Employment Observatory, working on labor market indicators, occupational intelligence, and applied machine learning.
+- 🐍 **Python developer** focused on statistical computing, econometrics, machine learning, and data engineering.
+- 📦 **Open-source maintainer** building reusable tools for researchers, analysts, and data scientists.
 
 ---
 
-### 🔧 Open-source projects
+### Open-source projects
 
-| Library | What it does |
+| Project | Description |
 |---|---|
-| [**tempdisagg**](https://github.com/jaimevera1107/tempdisagg) | Temporal disaggregation and retropolation of time series |
-| [**clustelia**](https://github.com/jaimevera1107/clustelia) | Automatic clustering of mixed-type data with abstention |
-| [**quaxdim**](https://github.com/jaimevera1107/quaxdim) | Multidimensional data-quality assessment for tabular datasets |
-| [**colombian-labor-market**](https://github.com/jaimevera1107/colombian-labor-market) | Reconstructed monthly labor-market series for 33 Colombian territories |
+| [**tempdisagg**](https://github.com/jaimevera1107/tempdisagg) | Temporal disaggregation, benchmarking, and retropolation of time series. |
+| [**clustelia**](https://github.com/jaimevera1107/clustelia) | Automated clustering for mixed-type datasets, with validation and abstention when evidence is insufficient. |
+| [**quaxdim**](https://github.com/jaimevera1107/quaxdim) | Multidimensional data-quality assessment for structured datasets. |
+| [**colombian-labor-market**](https://github.com/jaimevera1107/colombian-labor-market) | Reconstructed monthly labor market indicators across 33 Colombian territories. |
 
 ---
 
-### 🌿 Outside of work
+### Beyond the code
 
-Birdwatcher and lover · Reader (fiction) · Strategy & simulation gamer · Quaxly Fan · Cat's Lover
+When I'm not working with data, you'll probably find me birdwatching, reading fiction, playing strategy and simulation games, or spending time with cats.
 
+Also, an unapologetic **Quaxly enthusiast**. 🦆
 
 ---
 
-### 🔗 Find me
+### Connect
 
-[LinkedIn](https://www.linkedin.com/in/jaimeverajaramillo/) ·
-[Google Scholar](https://scholar.google.com/citations?hl=es&user=jGhB804AAAAJ) ·
-[Hugging Face](https://huggingface.co/jaimevera1107) ·
-[Email](mailto:jaimevera1107@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jaimeverajaramillo/) · [Google Scholar](https://scholar.google.com/citations?user=jGhB804AAAAJ) · [Hugging Face](https://huggingface.co/jaimevera1107) · [Email](mailto:jaimevera1107@gmail.com)

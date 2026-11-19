@@ -3,6 +3,8 @@
 **Economist · Data Scientist · Open-Source Developer**  
 Bogotá, Colombia · [@jaimevera1107](https://github.com/jaimevera1107)
 
+[CV in English (PDF)](cv/jaime-vera-jaramillo-cv-en.pdf) · [Hoja de vida en español (PDF)](cv/jaime-vera-jaramillo-cv-es.pdf)
+
 I work at the intersection of **economics, statistics, and artificial intelligence**, developing open-source tools for scientific computing, time-series analysis, and data-driven research.
 
 My interests revolve around making complex analytical methods more **accessible, reproducible, and reliable** — from statistical software development to large-scale data processing and labor market research.
